@@ -1,12 +1,21 @@
-- 👋 Hi, I’m @mdesrafil325
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Hi there, I'm Rômeo 👋
+# From TEAM CALYX
+![Visitor Count](https://komarev.com/ghpvc/?username=mdraselm325&color=blueviolet)
 
-<!---
-mdesrafil325/mdesrafil325 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 👤 About Me
+I'm a student passionate about JavaScript and coding.  
+Just a normal person every day trying to find a better one of me.
+
+## 🛠️ Top Skills
+- JavaScript (JS)
+
+
+## 🌐 Connect with Me
+- [Facebook](https://www.facebook.com/RomeoCalyx)
+
+## 📈 GitHub Stats
+![Nexus-016's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdraselm325&show_icons=true&theme=radical)
+
+---
+
+_Thanks for stopping by!_
