@@ -14,13 +14,13 @@ Just a normal person every day trying to find a better one of me.
 
 ### 📊 Github Stats (Expand to View) 
 
-  <p align="center">
-    <a href="https://github.com/RomeoCalyx/github-readme-stats"><img alt="khrlmstfa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=RomeoCalyx&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
-<br/>
-  &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RomeoCalyx&show_icons=true&locale=en&layout=compact&theme=algolia" alt="eabdalmufid" height="192px"/>
-  <br/>
-<br/>
+ ![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RomeoCalyx&layout=compact&theme=react)
+![stats](https://github-readme-stats.vercel.app/api?username=RomeoCalyx&show_icons=true&theme=react)
+![streak](https://github-readme-streak-stats.herokuapp.com/?user=RomeoCalyx&theme=react)
+![followers](https://img.shields.io/github/followers/RomeoCalyx?style=social)
+![stars](https://img.shields.io/github/stars/RomeoCalyx?style=social)
+![stalkers](https://komarev.com/ghpvc/?username=RomeoCalyx&color=61DAFB)
+
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
 
